@@ -1,0 +1,19 @@
+{
+    "name": "tsoffer/wechat",
+    "description": "微信 SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Liam Wang",
+            "email": "liamwang@aliyun.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "tsoffer\\wechat\\": "src"
+        }
+    }
+}
